@@ -51,6 +51,7 @@ export default function Users() {
         ))}
       </ul>
       <hr></hr>
+      <br></br>
       <button onClick={fetchUsers}>Refresh</button>
     </div>
   )
